@@ -1,4 +1,4 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/0w53uou83y3lujgy/branch/master?svg=true)](https://ci.appveyor.com/project/TatianaRudikova/basicsofautomation-patterns-1/branch/master)
+[![Build status](https://ci.appveyor.com/api/projects/status/m4h42q9ma9bodru7?svg=true)](https://ci.appveyor.com/project/malushkru0878/patterns-1)
 
 # Домашнее задание к занятию «2.3. Patterns»
 
